@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a software developer passionate about crafting
 
 ## 💡 Current Focus
 
-My recent endeavors involve diving into the back-end side of web development, as well as learning more about the ASP.NET framework.
+My recent endeavors involve diving into the back-end side of web development, as well as exploring the ASP.NET framework.
 
 ## 📫 Let's Connect
 
