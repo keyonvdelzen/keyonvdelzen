@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a software developer passionate about crafting
 - **Front-end:** HTML, CSS, JavaScript, TypeScript
 - **Back-end:** C#, PHP, Python
 - **Frameworks:** Vue.js, ASP.NET, Laravel
-- **Other:** Git, Visual Studio Code, and more
+- **Other:** Git, Visual Studio Code, Azure and more
 
 ## 💡 Current Focus
 
