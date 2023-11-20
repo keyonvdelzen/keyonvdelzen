@@ -15,4 +15,4 @@ My recent endeavors involve diving into the back-end side of web development, as
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [Keyon van den Elzen](https://www.linkedin.com/in/keyonvandenelzen)
+[LinkedIn](https://www.linkedin.com/in/keyonvandenelzen)
