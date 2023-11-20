@@ -1,16 +1,18 @@
-### Hi there 👋
+# 👋 Hi there, I'm Keyon - Software Developer
 
-<!--
-**keyonvdelzen/keyonvdelzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a software developer passionate about crafting web applications. Starting my journey as a front-end developer, I've evolved into a full-stack enthusiast, exploring the realms of both client and server-side development.
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Front-end:** HTML, CSS, JavaScript, TypeScript
+- **Back-end:** C#, PHP, Python
+- **Frameworks:** Vue.js, ASP.NET, Laravel
+- **Other:** Git, Visual Studio Code, and more
+
+## 💡 Current Focus
+
+My recent endeavors involve diving into the back-end side of web development, as well as learning more about the ASP.NET framework.
+
+## 📫 Let's Connect
+
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/keyonvandenelzen)
